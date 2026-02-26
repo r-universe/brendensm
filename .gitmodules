@@ -8,3 +8,6 @@
 [submodule "misuvi"]
 	path = misuvi
 	url = https://github.com/brendensm/misuvi
+[submodule "sqlfluffr"]
+	path = sqlfluffr
+	url = https://github.com/brendensm/sqlfluffr
